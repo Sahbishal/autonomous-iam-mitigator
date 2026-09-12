@@ -1,5 +1,5 @@
 # Autonomous Cloud IAM Least-Privilege Mitigator
-> **Tech Zephyr 4.0 — Agentic AI Hackathon | Problem Statement #10**
+
 
 [![Pytest Status](https://img.shields.io/badge/pytest-8%20passed-emerald)](./backend/tests)
 [![Python](https://img.shields.io/badge/python-3.12-blue)](https://python.org)
