@@ -217,4 +217,4 @@ backend/tests/test_tools.py::test_iam_tools_execution PASSED
 
 ## 10. License
 
-Developed for **Tech Zephyr 4.0 — Agentic AI Hackathon**. Released under the MIT License.
+**Agentic AI Hackathon**. Released under the MIT License.
