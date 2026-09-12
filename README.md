@@ -45,6 +45,7 @@ Solving cloud IAM optimization under uncertainty requires an autonomous agent th
 
 ---
 
+
 ## 2. Core Hackathon Demonstration Scenario (Scenario B)
 
 The project includes a mandatory deterministic demonstration scenario with a hidden dependency:
