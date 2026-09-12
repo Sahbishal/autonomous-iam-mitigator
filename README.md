@@ -14,6 +14,7 @@ An autonomous AI security agent designed to reduce excessive, risky, and unused 
   [OBSERVE] ──► [ANALYZE] ──► [PLAN (v1)] ──► [ACT (Simulate)]
                                                      │
                                                      ▼
+
   [VERIFY] ◄── [ACT (Simulate v2)] ◄── [ADAPT] ◄── [EVALUATE Failure]
 ```
 
