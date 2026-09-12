@@ -18,6 +18,7 @@ An autonomous AI security agent designed to reduce excessive, risky, and unused 
   [VERIFY] ◄── [ACT (Simulate v2)] ◄── [ADAPT] ◄── [EVALUATE Failure]
 ```
 
+
 > ⚠️ **SAFETY & GUARDRAIL DISCLAIMER**:
 > **SYNTHETIC CLOUD ENVIRONMENT — NO PRODUCTION ACCESS REQUIRED OR USED.**
 > All operations execute inside an isolated Python simulation environment modeling synthetic users, roles, permissions, resources, microservice dependency graphs, and access logs.
